@@ -1,0 +1,14 @@
+C:\Users\mursa\source\repos\Week6\RandomElement\bin\Debug\net8.0\RandomElement.exe
+C:\Users\mursa\source\repos\Week6\RandomElement\bin\Debug\net8.0\RandomElement.deps.json
+C:\Users\mursa\source\repos\Week6\RandomElement\bin\Debug\net8.0\RandomElement.runtimeconfig.json
+C:\Users\mursa\source\repos\Week6\RandomElement\bin\Debug\net8.0\RandomElement.dll
+C:\Users\mursa\source\repos\Week6\RandomElement\bin\Debug\net8.0\RandomElement.pdb
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.AssemblyInfoInputs.cache
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.AssemblyInfo.cs
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.csproj.CoreCompileInputs.cache
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.dll
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\refint\RandomElement.dll
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.pdb
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\RandomElement.genruntimeconfig.cache
+C:\Users\mursa\source\repos\Week6\RandomElement\obj\Debug\net8.0\ref\RandomElement.dll

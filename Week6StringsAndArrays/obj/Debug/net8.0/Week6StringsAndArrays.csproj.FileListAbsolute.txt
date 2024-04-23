@@ -1,0 +1,14 @@
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.exe
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.deps.json
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.runtimeconfig.json
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.dll
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.pdb
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.AssemblyInfo.cs
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.dll
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\refint\Week6StringsAndArrays.dll
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.pdb
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.genruntimeconfig.cache
+C:\Users\mursa\source\repos\Week6\Week6StringsAndArrays\obj\Debug\net8.0\ref\Week6StringsAndArrays.dll
